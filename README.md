@@ -11,7 +11,7 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 
 [Youtube Video](https://www.youtube.com/watch?v=OY7AvfL6cE8)
 <br><br>
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/vulusu-baladitya-997a8a244/)
 
 # About
 
