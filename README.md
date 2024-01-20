@@ -35,7 +35,7 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 
 ## Technologies Used
 
-- Frontend: React.js, Material UI, Redux Toolkit, Styled Components
+- Frontend: HTML, React.js, Material UI, Redux Toolkit, Styled Components
 - Backend: Node.js, Express.js, JWT Token
 - Database: MongoDB
 - Data Visualization: React Apexcharts
