@@ -45,7 +45,7 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-Ecommerce-Site.git
+git clone 
 ```
 Open 2 terminals in separate windows/tabs.
 
